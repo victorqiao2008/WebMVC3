@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVC3", "WebMVC3\WebMVC3.csproj", "{BB9709E7-053D-4923-AC76-4D77DD48954F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVC3Test", "WebMVC3Test\WebMVC3Test.csproj", "{032EB22A-861D-4B83-A5CE-FABCBEC6D5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB9709E7-053D-4923-AC76-4D77DD48954F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9709E7-053D-4923-AC76-4D77DD48954F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9709E7-053D-4923-AC76-4D77DD48954F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9709E7-053D-4923-AC76-4D77DD48954F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{032EB22A-861D-4B83-A5CE-FABCBEC6D5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032EB22A-861D-4B83-A5CE-FABCBEC6D5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032EB22A-861D-4B83-A5CE-FABCBEC6D5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032EB22A-861D-4B83-A5CE-FABCBEC6D5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B176289-1D8C-4E67-B1F8-990FF5E9DE0F}
+	EndGlobalSection
+EndGlobal
