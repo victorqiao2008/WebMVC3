@@ -10,6 +10,10 @@ using System.Threading.Tasks;
 
 namespace WebMVC3
 {
+
+    /// <summary>
+    /// releas2
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
