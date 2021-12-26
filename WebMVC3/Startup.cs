@@ -12,7 +12,7 @@ namespace WebMVC3
 {
 
     /// <summary>
-    /// releas2
+    /// releas2, 3
     /// </summary>
     public class Startup
     {
